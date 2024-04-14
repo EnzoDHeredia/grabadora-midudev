@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    background: #111;
+    display: grid;
+    place-content: center;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente según tus preferencias */
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
